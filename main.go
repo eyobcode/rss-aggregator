@@ -1,1 +1,1 @@
-package rss_aggregator
+package main
