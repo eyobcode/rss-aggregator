@@ -1,1 +1,22 @@
-.idea
+# Binaries for the current project
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.prof
+rss-aggregator
+# Go module cache and build artifacts
+/pkg/
+/bin/
+/vendor/ # If you are not vendoring dependencies
+/go.sum # If you are not committing go.sum
+
+# IDE and editor specific files
+.idea/
+*.swp
+*~
+
+
+# Environment variables
+.env
